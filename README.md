@@ -1,0 +1,2 @@
+For the object, I chose books. I gave it the same name. Then I drew a UML diagram and uploaded it to git. I added four attributes: title, author, ISBN code, price. Now the user can define the book and all its components. I divided the code into two parts: main.py and book.py. 
+As an additional method, I chose to specify how expensive the book is. If the book is more than 30 dollars, the output will display “The book is expensive”. If it is less than $30, the output will output “The book is affordable”.
